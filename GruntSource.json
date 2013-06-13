@@ -1,3 +1,4 @@
 {
-  "source": "../grunt-source-jquery"
+  "source": "../grunt-source-jquery",
+  "repo": "https://github.com/jpillora/grunt-source-jquery.git"
 }
